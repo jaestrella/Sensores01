@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    android:background="#f462f4"
+    android:background="#aaf559"
     tools:context="com.iesvirgendelcarmen.dam.sensores01.Sensores01">
 
     <TextView
